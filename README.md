@@ -2,7 +2,6 @@
 
 ![C++](https://img.shields.io/badge/C++-17-blue)
 ![Data Science](https://img.shields.io/badge/Data%20Science-Ready-green)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 This is an interactive console-based program written in C++ that generates prime numbers with animation effects.  
 It includes a **typewriter-style text display**, a **progress bar**, and prints the primes in a clean, formatted layout.  
